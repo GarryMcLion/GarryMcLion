@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Ihor, I'm from Ukraine now living in Barcelona, Spain.
 - 👀 I’m interested in graphic design, layout creation and frontend development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate like WEB Graphic Designer and/o Layout Designer
+- 💞️ I’m looking to collaborate like Frontend Graphic Designer.
 - 📫 You can contact me on if.style@hotmail.com
